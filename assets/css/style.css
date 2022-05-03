@@ -1,0 +1,46 @@
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.barra img{
+  height: 50px;
+  width: 100%;
+}
+.avenida {
+  font-size: 15px;
+  text-align: left;
+}
+.precio{
+  text-align: right;
+}
+.precio2{
+  font-size: 18px;
+   font-weight: 900 ;
+
+}
+
+.icono {
+
+  color: #707070;
+  font-weight: 400;
+}
+.card-body h5{
+
+  color : #212529;
+}
+.cuadro{
+  background: #28a745;
+}
+.logo{
+  width: 15%;
+  background-color:#ffffff;
+}
+.footer{
+  color: #707070;
+  margin:20px;
+}
+
+.card-body {
+  min-height: 250px;
+}
